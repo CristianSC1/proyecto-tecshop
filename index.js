@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-
+// xxx
 app.use(express.static('public'))
 
 //middlewares:
